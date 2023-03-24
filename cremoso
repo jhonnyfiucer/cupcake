@@ -325,3 +325,32 @@ fun main() {
     // Exercício - Exibir uma tabuada até pelo menos o décimo multiplo de um
     //  número escolhido(que não seja a do 0, do 1, e do 2), utilizando
     // o laço for
+ //----------------------------------------------------------------------------
+ 
+ fun main() {
+   // Exercício - Exibir uma tabuada até pelo menos o décimo multiplo de um
+   // número escolhido(que não seja a do 0, do 1, e do 2), utilizando
+   // o laço for
+/*       
+  for (i in 1..10){
+      println(i*50)
+}
+*/
+
+// repeat -> repita
+// 
+//  repetir uma determinada sequencia de açoes, em determinada quantidae de vezes 
+//  
+//  repaet(vezes){
+//  açao
+//}
+//
+repeat(7){  
+    println(moranguinho♥)
+    
+ var cerejinha = 20 
+ repeat(21){ 
+    println(cerejinha) 
+    cerejinha--
+} 
+
